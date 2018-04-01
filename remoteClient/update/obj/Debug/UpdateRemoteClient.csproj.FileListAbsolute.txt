@@ -1,0 +1,7 @@
+C:\Users\Программист\source\repos\NewRepo\remoteClient\update\bin\Debug\update.exe.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient\update\bin\Debug\update.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient\update\bin\Debug\update.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient\update\obj\Debug\UpdateRemoteClient.csprojResolveAssemblyReference.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient\update\obj\Debug\UpdateRemoteClient.csproj.CoreCompileInputs.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient\update\obj\Debug\update.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient\update\obj\Debug\update.pdb

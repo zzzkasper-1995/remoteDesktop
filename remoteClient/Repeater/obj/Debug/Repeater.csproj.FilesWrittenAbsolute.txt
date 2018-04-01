@@ -1,0 +1,3 @@
+/media/sf_repos/NewRepo/remoteClient/Repeater/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/media/sf_repos/NewRepo/remoteClient/Repeater/obj/Debug/Repeater.exe
+/media/sf_repos/NewRepo/remoteClient/Repeater/bin/Debug/Newtonsoft.Json.dll

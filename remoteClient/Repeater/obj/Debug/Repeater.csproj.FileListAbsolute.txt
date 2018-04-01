@@ -1,0 +1,21 @@
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\bin\Debug\Repeater.exe.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\bin\Debug\Repeater.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\bin\Debug\Repeater.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\obj\Debug\Repeater.csproj.CoreCompileInputs.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\obj\Debug\Repeater.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\obj\Debug\Repeater.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient\Repeater\obj\Debug\Repeater.csprojResolveAssemblyReference.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\Repeater.exe.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\Repeater.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\Repeater.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\obj\Debug\Repeater.csprojResolveAssemblyReference.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\obj\Debug\Repeater.csproj.CoreCompileInputs.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\obj\Debug\Repeater.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\obj\Debug\Repeater.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\NLog.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\NLog.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\bin\Debug\NLog.xml

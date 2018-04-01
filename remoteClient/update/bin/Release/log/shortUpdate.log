@@ -1,0 +1,10 @@
+23.01.2018 14:22:36 (ERROR): Main() UpdateForAdmin
+23.01.2018 14:22:36 (ERROR): Main() UpdateForAdmin if (hasAdministrativeRight == false)
+23.01.2018 14:22:39 (ERROR): Main() UpdateForAdmin
+23.01.2018 14:22:39 (ERROR): Main() UpdateForAdmin if (hasAdministrativeRight != false)
+23.01.2018 14:22:39 (ERROR): UpdateRun() UpdateForAdmin
+23.01.2018 14:22:40 (ERROR): System.ComponentModel.Win32Exception (0x80004005): Не удается найти указанный файл
+   в System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   в System.Diagnostics.Process.Start()
+   в System.Diagnostics.Process.Start(ProcessStartInfo startInfo)
+   в update.Program.UpdateRun() в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\update\Program.cs:строка 225

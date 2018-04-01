@@ -1,0 +1,92 @@
+20.01.2018 15:39:14 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 15:39:15 (ERROR): Main() ошибка: System.InvalidOperationException: Прослушивание не выполняется. Перед вызовом этого метода необходимо вызвать метод Start().
+   в System.Net.Sockets.TcpListener.AcceptTcpClient()
+   в RepServer.Main(String[] arg) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 45
+20.01.2018 18:50:56 (ERROR): RunClient() ошибка: System.IO.IOException: Не удается записать данные в транспортное соединение: Удаленный хост принудительно разорвал существующее подключение. ---> System.Net.Sockets.SocketException: Удаленный хост принудительно разорвал существующее подключение
+   в System.Net.Sockets.Socket.Send(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   --- Конец трассировки внутреннего стека исключений ---
+   в System.Net.Sockets.NetworkStream.Write(Byte[] buffer, Int32 offset, Int32 size)
+   в Request.send(ClientHandler remoteClient) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 731
+   в ClientHandler.WorkWithResponse(Response r) в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 636
+   в ClientHandler.RunClient() в C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\Repeater\Program.cs:строка 232

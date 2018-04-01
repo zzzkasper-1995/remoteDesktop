@@ -1,0 +1,60 @@
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\AdminServer.exe.config
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\AdminServer.exe
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\AdminServer.pdb
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\remoteClient.exe
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\remoteClient.pdb
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\remoteClient.exe.config
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.csprojResolveAssemblyReference.cache
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.MainForm.resources
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.Properties.Resources.resources
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.csproj.GenerateResource.Cache
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.csproj.CoreCompileInputs.cache
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.exe
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.pdb
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\AdminServer.exe.manifest
+C:\Users\Программист\source\repos\remoteClient\AdminServer\bin\Debug\AdminServer.application
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.exe.manifest
+C:\Users\Программист\source\repos\remoteClient\AdminServer\obj\Debug\AdminServer.application
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\AdminServer.exe.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\AdminServer.exe.manifest
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\AdminServer.application
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\AdminServer.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\AdminServer.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.Properties.Resources.resources
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.csproj.GenerateResource.Cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.csproj.CoreCompileInputs.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.exe.manifest
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.application
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.csprojResolveAssemblyReference.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\MetroFramework.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.MetroAuthenticationForm.resources
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\obj\Debug\AdminServer.MetroMainForm.resources
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\NLog.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\NLog.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient\AdminServer\bin\Debug\NLog.xml
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\NLog.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\MetroFramework.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\NLog.dll
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\NLog.xml
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\AdminServer.MetroAuthenticationForm.resources
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\AdminServer.MetroMainForm.resources
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\AdminServer.Properties.Resources.resources
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\AdminServer.csproj.GenerateResource.Cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\AdminServer.csproj.CoreCompileInputs.cache
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\AdminServer.MetroListClientsForm.resources
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\Remote master neo-service24.exe.config
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\Remote master neo-service24.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\bin\Debug\Remote master neo-service24.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\Remote master neo-service24.exe
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\Remote master neo-service24.pdb
+C:\Users\Программист\source\repos\NewRepo\remoteClient — копия (4)\AdminServer\obj\Debug\AdminServer.csprojResolveAssemblyReference.cache

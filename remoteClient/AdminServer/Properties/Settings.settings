@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AdminServer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="defaultWayToVNC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Program Files\uvnc bvba\UltraVNC</Value>
+    </Setting>
+    <Setting Name="defaultIpRepeaterServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">adspromote.ru</Value>
+    </Setting>
+    <Setting Name="defaultIpRepeaterUVNC" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">adspromote.ru</Value>
+    </Setting>
+    <Setting Name="defaultPortRepeaterServer" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">34001</Value>
+    </Setting>
+    <Setting Name="UvncStartFile" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vncviewer</Value>
+    </Setting>
+    <Setting Name="defaultPortRepeaterUVNC" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5500</Value>
+    </Setting>
+    <Setting Name="Updater" Type="System.String" Scope="User">
+      <Value Profile="(Default)">update</Value>
+    </Setting>
+    <Setting Name="serverUpdater" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://adspromote.ru:34002</Value>
+    </Setting>
+    <Setting Name="fileNameWithVersion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VersionAdmin.ini</Value>
+    </Setting>
+    <Setting Name="ListFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ListFilesUpdaterAdmin.ini</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
